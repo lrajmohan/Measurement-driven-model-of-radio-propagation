@@ -4,7 +4,7 @@ In this project we built a measurement-driven model of radio propagation. The ba
 
 ####Measurements:
 
-The first step is to collect a number of RSS measurements tagged with distance of the transmitter. The best way to do this is to use a technology that is easily available, i.e., cellular phones or WiFi client devices (laptop or a smartphone) and collect measurements from a cell tower (for cellular signals) or WiFi AP (for WiFi signals) with a known location. "WireShark packet capture tool" is used to collect RSS for different cellular technologies or WiFi on different phone/computer platforms. To find distance, measurement locations are recorded. Locations are determined via a phone’s GPS and using online satellite maps.
+The first step is to collect a number of RSS measurements tagged with distance of the transmitter. We used WiFi client devices (laptop) and collected measurements from  WiFi AP (for WiFi signals) with a known location. "WireShark packet capture tool" is used to collect RSS for different  WiFi Aps on different computer platforms. To find distance, measurement locations are recorded. Locations are determined via a phone’s GPS and using online satellite maps.
 
 ####Analysis:
 
