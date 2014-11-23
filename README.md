@@ -1,8 +1,5 @@
 #Wireless/Mobile Networks Project
 ##Measurement-driven model of radio propagation 
-================
-This project involves analyzing the given wireless data collected from Access points in different ranges and to calculate various attributes for in-sector and out-sector.
-
 In this project we built a measurement-driven model of radio propagation. The basic idea is to measure the received power (generally called received signal strength or RSS) at different distances from a wireless transmitter and then fit a model using these measurements.
 
 ####Measurements:
